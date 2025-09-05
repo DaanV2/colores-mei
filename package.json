@@ -1,0 +1,21 @@
+{
+  "name": "colores-mei",
+  "displayName": "Colores Mei",
+  "description": "My colours, just color palletes I like as a theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "orange-4",
+        "uiTheme": "vs",
+        "path": "./themes/orange-4-color-theme.json"
+      }
+    ]
+  }
+}
